@@ -13,6 +13,7 @@ a{
 }    
 #container .text{
     float:left;
+    padding: 10px;
 }
 #container .button{
     float:right;
@@ -67,6 +68,15 @@ margin-left: 20px;
 .find-form{
     margin-top: 30px;
 }
-#icon {
-    
+.all-box{
+    text-align: center;
+    padding: 20px;
+}
+.all-box .box {
+    float: left;
+    width: 33%;
+}
+.all-box .box .icon i{
+    font-size: 77px;
+    color:#0D6EFD ;
 }
